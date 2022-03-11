@@ -1,14 +1,10 @@
 # Hi there, I'm arya
 
-## 🎓 I 'm a second year undergrad at geu dehradun , pursuing B.Tech CSE.
-## 🌐 I 'm currently learning web development.
-## In my free time i like to read books and watch movies.
+- 🎓 I 'm a second year undergrad at geu dehradun , pursuing B.Tech CSE.
+- 🌐 I 'm currently learning web development.
+- 🎮 In my free time i like to read books and watch movies.
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+
 
 
 ### Connect with me:
