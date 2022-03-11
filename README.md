@@ -6,18 +6,11 @@
 
 
 
-
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arya-pratap-singh-2293a820b/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arya-pratap-singh-2293a820b/)
-
-
 ### Languages and Tools:
 
-<img align="left" alt="C" widht="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img align="left" alt="C++" widht="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" alt="linux" widht="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
@@ -27,4 +20,14 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg#gh-dark-mode-only" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg#gh-light-mode-only" />
 
-<br />
+
+<br/>
+<br/>
+
+
+
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arya-pratap-singh-2293a820b/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arya-pratap-singh-2293a820b/)
+
