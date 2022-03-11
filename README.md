@@ -1,7 +1,7 @@
 # Hi there, I'm arya
 
 - 🎓 I 'm a second year undergrad at geu dehradun , pursuing B.Tech CSE.
-- 🌐 I 'm currently learning web development.
+- 💻 I 'm currently learning web development.
 - 🎮 In my free time i like to read books and watch movies.
 
 
