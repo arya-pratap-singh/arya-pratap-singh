@@ -1,5 +1,4 @@
 # Hi there, I'm arya
-
 - 🎓 I 'm a second year undergrad at geu dehradun , pursuing B.Tech CSE.
 - 💻 I 'm currently learning web development.
 - 🎮 In my free time i like to read books and watch movies.
@@ -30,4 +29,8 @@
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arya-pratap-singh-2293a820b/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arya-pratap-singh-2293a820b/)
+
+<hr>
+
+<img align="left" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=arya-pratap-singh&show_icons=true&count_private=true&theme=radical&hide=stars" />
 
