@@ -27,8 +27,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arya-pratap-singh-2293a820b/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arya-pratap-singh-2293a820b/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arya-pratap-singh-2293a820b/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arya-pratap-singh-2293a820b/#gh-dark-mode-only)
 
 <hr>
 
